@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6067
     wikipedia: http://en.wikipedia.org/wiki/Sutton_E._Griggs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15454#Imperium-in-Imperio--A-Study-of-the-Negro-Race-Problem--13-A-Novel
 gutenberg_issued: '2005-03-24'
 gutenberg_type: Text
 identifiers:

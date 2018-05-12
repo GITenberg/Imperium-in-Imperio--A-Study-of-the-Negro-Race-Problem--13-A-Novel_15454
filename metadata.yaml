@@ -1,0 +1,35 @@
+_repo: Imperium-in-Imperio--A-Study-of-the-Negro-Race-Problem--13-A-Novel_15454
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Griggs, Sutton E. (Sutton Elbert)
+    alias: Griggs, Sutton Elbert
+    birthdate: 1872
+    deathdate: 1933
+    gutenberg_agent_id: '6067'
+    url: http://www.gutenberg.org/2009/agents/6067
+    wikipedia: http://en.wikipedia.org/wiki/Sutton_E._Griggs
+description: ''
+gutenberg_issued: '2005-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15454'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Radicals -- Fiction'
+- !lcsh 'Utopian fiction'
+- !lcsh 'African American men -- Fiction'
+- !lcsh 'Texas -- Fiction'
+- !lcsh 'Black nationalism -- Fiction'
+- !lcsh 'Racism -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Racially mixed people -- Fiction'
+- !lcsh 'Political fiction'
+title: 'Imperium in Imperio: A Study of the Negro Race Problem. A Novel'
+url: http://www.gutenberg.org/ebooks/15454
